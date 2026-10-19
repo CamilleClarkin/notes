@@ -6,4 +6,4 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
 
-  [link text](comp1238.md)
+  [Worth remembering for Exam](comp1238.md)
