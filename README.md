@@ -8,4 +8,4 @@
 
   [Worth remembering for Exam](comp1238.md)
 
-  [My repository](https://github.com/CamilleClarkin/notes)
+ 
